@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #6dd5ed, #2193b0);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background: #ffffff;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#banner {
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(200, 17, 17);
+}
+#clock{
+    font-size: 30px;
+    background-color: black;
+    color:white;
+    padding:2px;
+    border-radius: 15px;
+    
+}
